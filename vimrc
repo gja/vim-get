@@ -181,7 +181,7 @@ set smartcase " Ignore case when searching lowercase
 " Colors **********************************************************************
 "set t_Co=256 " 256 colors
 syntax on " syntax highlighting
-colorscheme camouflage
+colorscheme twilight
 
 " Status Line *****************************************************************
 set showcmd
