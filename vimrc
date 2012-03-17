@@ -197,10 +197,10 @@ set showbreak=…
 
 " Mappings ********************************************************************
 " Professor VIM says '87% of users prefer jj over esc', jj abrams strongly disagrees
-imap jj <Esc>
-imap uu _
-imap hh =>
-imap aa @
+" imap jj <Esc>
+" imap uu _
+" imap hh =>
+" imap aa @
 
 " Directories *****************************************************************
 " Setup backup location and enable
